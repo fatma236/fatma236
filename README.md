@@ -19,13 +19,6 @@
 ### 📫 Connect With Me
 - 🌐 https://www.linkedin.com/in/fatima-younis-98711a388/ 
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FatmaYounis&show_icons=true&theme=rose_pine&title_color=e48bb9&icon_color=e48bb9&text_color=fff&bg_color=1a1a1a" alt="Fatma's GitHub stats" />
-</p>
 
 ---
 
