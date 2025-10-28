@@ -12,7 +12,7 @@
 ---
 
 ### 🧰 Technologies I Use
- HTML | CSS | JavaScript | Java | C# | 
+ HTML | CSS | JavaScript | Java | C# | Dart
 
 ---
 
